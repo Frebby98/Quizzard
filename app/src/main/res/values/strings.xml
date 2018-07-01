@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Quizzard</string>
+    <string name="desc">image</string>
+
+    <string name="name_hint">What\'s your name?</string>
+<string name="welcome_text">Welcome To Quizzard\n The Mind Game</string>
+    <string name="proceed_click">Click To Proceed</string>
+
+
+    <string name="question_one">1. What year did the first world war begin?</string>
+    <string name="question_one_option_one"> 1918</string>
+    <string name="question_one_option_two"> 1912</string>
+    <string name="question_one_option_three"> 1914</string>
+    <string name="question_one_option_four"> 1939</string>
+
+    <string name="question_two">2. Three options are among the seven wonders of the world, identify
+        them?
+    </string>
+    <string name="question_two_option_one"> The Great Divide Of Athens</string>
+    <string name="question_two_option_two"> The Hanging Gardens of Babylon</string>
+    <string name="question_two_option_three"> The Lighthouse of Alexandria</string>
+    <string name="question_two_option_four"> The Colossus Of Rhodes</string>
+
+    <string name="question_three">3. How many countries are in Africa? </string>
+    <string name="question_three_option_one"> 132</string>
+    <string name="question_three_option_two"> 53</string>
+    <string name="question_three_option_three"> 98</string>
+    <string name="question_three_option_four"> 54</string>
+
+    <string name="question_four">4. Identify the odd option.</string>
+
+    <string name="question_four_option_one"> Mars</string>
+    <string name="question_four_option_two"> Earth</string>
+    <string name="question_four_option_three"> Moon</string>
+    <string name="question_four_option_four"> Jupiter</string>
+
+    <string name="question_five">5. Holding the record of the tallest building in the world
+        is? </string>
+    <string name="question_five_option_one"> The Miss Khalifa</string>
+    <string name="question_five_option_two"> The Wiz Khalifa</string>
+    <string name="question_five_option_three"> The Khalifa</string>
+    <string name="question_five_option_four"> The Burj Khalifa</string>
+
+    <string name="question_six">6. This are continents, except one. Identify them,
+        but leave the odd one out?</string>
+    <string name="question_six_option_one"> Nigeria</string>
+    <string name="question_six_option_two"> Asia</string>
+    <string name="question_six_option_three"> North America</string>
+    <string name="question_six_option_four"> Europe</string>
+
+    <string name="question_seven">"7. When an attacking player receives the ball while on his "
+                            "opponent\'s half and closer to the opponent\'s goal line than both "
+                            "the ball and the second-last player is known as?"</string>
+    <string name="q7_hint">Your Answer</string>
+    <string name="q7_hint_button_text">Hint</string>
+
+
+    <string name="question_eight">8. The stripes on the United States of America\'s flag
+                                    are a total of?</string>
+    <string name="q8_hint">Your Answer</string>
+    <string name="q8_hint_button_text">Hint</string>
+
+
+    <string name="question_nine">9. There are three primary colors, what are they.</string>
+    <string name="question_nine_option_one"> Blue</string>
+    <string name="question_nine_option_two"> Green</string>
+    <string name="question_nine_option_three"> Red</string>
+    <string name="question_nine_option_four"> Yellow</string>
+
+    <string name="question_ten">10. Soccer is to field, while basketball is to</string>
+    <string name="q10_hint">Your Answer</string>
+    <string name="q10_hint_button_text">Hint</string>
+
+    <string name="submit_text">submit</string>
+    <string name="reset_text">reset</string>
+
+
+</resources>

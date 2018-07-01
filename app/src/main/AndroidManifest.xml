@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.quizzard">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/puzz_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/puzz_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Main2Activity"
+            android:configChanges="keyboardHidden|orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" >
+        </activity>
+
+    </application>
+
+</manifest>
